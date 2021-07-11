@@ -16,7 +16,79 @@
 }
 
 .mario .hat-border-pixel-01 {
-  background-color: #500000;
   top: 270px;
   left: 0px;
+}
+
+.mario .hat-border-pixel-02 {
+  top: 240px;
+}
+
+.mario .hat-border-pixel-03 {
+  top: 210px;
+}
+
+.mario .hat-border-pixel-04 {
+  top: 180px;
+  left: 30px;
+}
+
+.mario .hat-border-pixel-05 {
+  top: 150px;
+  left: 30px;
+}
+
+.mario .hat-border-pixel-06 {
+  top: 120px;
+  left: 60px;
+}
+
+.mario .hat-border-pixel-07 {
+  top: 90px;
+  left: 90px;
+}
+
+.mario .hat-border-pixel-08 {
+  top: 60px;
+  left: 120px;
+}
+
+.mario .hat-border-pixel-09 {
+  top: 60px;
+  left: 150px;
+}
+
+.mario .hat-border-pixel-10 {
+  top: 30px;
+  left: 180px;
+}
+
+.mario .hat-border-pixel-11 {
+  top: 30px;
+  left: 210px;
+}
+
+.mario .hat-border-pixel-12 {
+  top: 30px;
+  left: 240px;
+}
+
+.mario .hat-border-pixel-13 {
+  top: 30px;
+  left: 270px;
+}
+
+.mario .hat-border-pixel-14 {
+  top: 30px;
+  left: 300px;
+}
+
+.mario .hat-border-pixel-15 {
+  top: 60px;
+  left: 330px;
+}
+
+.mario .hat-border-pixel-16 {
+  top: 90px;
+  left: 330px;
 }
