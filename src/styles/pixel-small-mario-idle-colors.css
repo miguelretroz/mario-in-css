@@ -1,9 +1,15 @@
-.brown-border {
-  background-color: #500000;
+/* --- Global colors --- */
+
+.white-pixel {
+  background-color: #f8f8f8;
 }
 
 .black-pixel {
   background-color: #000000;
+}
+
+.brown-border {
+  background-color: #500000;
 }
 
 .pink-pixel {
@@ -22,20 +28,28 @@
   background-color: #d8a038;
 }
 
-.white-pixel {
-  background-color: #f8f8f8;
+.dark-golden-pixel {
+  background-color: #885818;
+}
+
+.blue-pixel {
+  background-color: #408098;
+}
+
+light-blue-pixel {
+  background-color: #80d8c8;
+}
+
+navy-blue-pixel {
+  background-color: #203088;
 }
 
 /* --- head colors --- */
 
-dark-golden-pixel {
-  background-color: #885818;
-}
-
-light-pink-pixel {
+.light-pink-pixel {
   background-color: #f8d0c0;
 }
 
-dark-pink-pixel {
+.dark-pink-pixel {
   background-color: #f87068;
 }
