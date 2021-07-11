@@ -8,3 +8,8 @@
   height: 700px;
   border: 1px solid red;
 }
+
+.mario .pixel {
+  width: 50px;
+  height: 50px;
+}
