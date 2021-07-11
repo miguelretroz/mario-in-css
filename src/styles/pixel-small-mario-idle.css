@@ -14,4 +14,9 @@
   width: 30px;
   height: 30px;
 }
+
+.mario .hat-border-pixel-01 {
+  background-color: #500000;
+  top: 270px;
+  left: 0px;
 }
