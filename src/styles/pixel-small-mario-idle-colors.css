@@ -25,3 +25,17 @@
 .white-pixel {
   background-color: #f8f8f8;
 }
+
+/* --- head colors --- */
+
+dark-golden-pixel {
+  background-color: #885818;
+}
+
+light-pink-pixel {
+  background-color: #f8d0c0;
+}
+
+dark-pink-pixel {
+  background-color: #f87068;
+}
