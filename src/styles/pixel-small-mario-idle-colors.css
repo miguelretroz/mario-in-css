@@ -1,0 +1,55 @@
+/* --- Global colors --- */
+
+.white-pixel {
+  background-color: #f8f8f8;
+}
+
+.black-pixel {
+  background-color: #000000;
+}
+
+.brown-border {
+  background-color: #500000;
+}
+
+.pink-pixel {
+  background-color: #f84070;
+}
+
+.purple-red-pixel {
+  background-color: #b02860;
+}
+
+.light-yellow-pixel {
+  background-color: #f8d870;
+}
+
+.golden-pixel {
+  background-color: #d8a038;
+}
+
+.dark-golden-pixel {
+  background-color: #885818;
+}
+
+.blue-pixel {
+  background-color: #408098;
+}
+
+.light-blue-pixel {
+  background-color: #80d8c8;
+}
+
+.navy-blue-pixel {
+  background-color: #203088;
+}
+
+/* --- head colors --- */
+
+.light-pink-pixel {
+  background-color: #f8d0c0;
+}
+
+.dark-pink-pixel {
+  background-color: #f87068;
+}
